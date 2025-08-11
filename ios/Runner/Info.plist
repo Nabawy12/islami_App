@@ -45,5 +45,12 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<!-- Location Permissions for Qibla -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>نستخدم موقعك لحساب اتجاه القبلة.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>نحتاج الموقع أثناء الاستخدام لمتابعة اتجاه القبلة.</string>
+
 </dict>
 </plist>
